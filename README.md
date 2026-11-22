@@ -60,11 +60,6 @@ I combine operational leadership with geospatial analytics to turn complex datas
 
 ---
 
-### 📊 GitHub Activity & Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=sajiakhatoon786-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajiakhatoon786-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sajiakhatoon786-bit&color=blueviolet&style=flat-square)
